@@ -1,0 +1,2 @@
+# funny-web-checkpoint
+checkpoint/
