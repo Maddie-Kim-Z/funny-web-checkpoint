@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../src/base.css">
+    <link rel="stylesheet" href="../src/index.css">
+    <link rel="stylesheet" href="../iconfont/font_4645122_bpq8n3s96ad/demo.css">
+    <link rel="stylesheet" href="../iconfont/font_4645122_bpq8n3s96ad/iconfont.css">
+    <title>个性化名片</title>
+    <script src="https://cdn.jsdelivr.net/npm/@faker-js/faker@latest/dist/faker.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            width: 300px;
+        }
+        .profile-picture {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+        p {
+            margin: 5px 0;
+            color: #555;
+        }
+        .social-links a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <span class="iconfont icon-Switch"></span>
+        <img id="profile-picture" src="../src/3d629d7a3aceef04bbf901f485afe17.jpg" alt="Profile Picture" class="profile-picture">
+        <h1 id="name">姓名</h1>
+        <p id="bir">生日 </p>
+        <p id="email">邮箱</p>
+        <p id="ID">ID</p>
+        <div class="social-links">
+            <a id="github" href="" target="_blank">GitHub</a>
+            <a id="linkedin" href="" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+    <script src="../src/index.js"></script>
+    
+</body>
+</html>

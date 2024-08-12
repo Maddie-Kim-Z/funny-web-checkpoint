@@ -1,0 +1,135 @@
+{
+  "id": "4645122",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "40794586",
+      "name": "Plus",
+      "font_class": "Plus",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "40794587",
+      "name": "Top",
+      "font_class": "Top",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "40794592",
+      "name": "Export",
+      "font_class": "Export",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "40794596",
+      "name": "Delete",
+      "font_class": "Delete",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "40794602",
+      "name": "ChatDotRound",
+      "font_class": "ChatDotRound",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "40794607",
+      "name": "Upload",
+      "font_class": "Upload",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "40794608",
+      "name": "UserPlus",
+      "font_class": "UserPlus",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "40794613",
+      "name": "UserHeart",
+      "font_class": "UserHeart",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "40794614",
+      "name": "ListLine",
+      "font_class": "ListLine",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "40794535",
+      "name": "CircleMore",
+      "font_class": "CircleMore",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "40794554",
+      "name": "View",
+      "font_class": "View",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "40794557",
+      "name": "Lmport",
+      "font_class": "Lmport",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "40794558",
+      "name": "Star",
+      "font_class": "Star",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "40794572",
+      "name": "Switch",
+      "font_class": "Switch",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "40794580",
+      "name": "ArrowLeft",
+      "font_class": "ArrowLeft",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "40794581",
+      "name": "ArrowUp",
+      "font_class": "ArrowUp",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "40794582",
+      "name": "ArrowRight",
+      "font_class": "ArrowRight",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "40794583",
+      "name": "Search",
+      "font_class": "Search",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
